@@ -1,4 +1,5 @@
 # health management system
+# here three paitent you can store data and retrive data
 
 print('Health Management System')
 def getdate():
